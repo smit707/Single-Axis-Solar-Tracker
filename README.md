@@ -1,4 +1,4 @@
-TinkerCad Simulation
+# Single Axis Solar Tracker
 
 
 Steps for opening the link.
